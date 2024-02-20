@@ -1,0 +1,14 @@
+[
+    {
+      "instruction": "Please summarize the key elements from the following dialogue history, key elements include role information, topic, and import entities.",
+      "input": "Dialogue history: #Speaker_1#: Good morning. What can I do for you?\n #Speaker_2#: I’m in Room 309. I’m checking out today. Can I have my bill now?\n #Speaker_1#: Certainly. Please wait a moment. Here you are.\n #Speaker_2#: Thanks. Wait…What’s this? The 30 dollar for?\n #Speaker_1#: Excuse me… The charge for your laundry service on Nov. 20th.\n #Speaker_2#: But I didn’t take any laundry service during my stay here. I think you have added someone else’s.\n #Speaker_1#: Ummm… Sorry, would you mind waiting amoment? We check it with the department concerned.\n #Speaker_2#: No. As long as we get this straightened out.\n #Speaker_1#: I’m very sorry. There has been a mistake. We’ll corrected the bill. Please take a look.\n #Speaker_2#: Okay, here you are.\n #Speaker_1#: Goodbye",
+      "output": "Dialogue role includes #Speaker_1# and #Speaker_2#. Topic is .... Important entities include....."
+    },
+    {
+      "instruction": "Please summarize the following dialogue summary with dialogue elements.",
+      "input": "Dialogue history: #Speaker_1#: Good morning. What can I do for you?\n #Speaker_2#: I’m in Room 309. I’m checking out today. Can I have my bill now?\n #Speaker_1#: Certainly. Please wait a moment. Here you are.\n #Speaker_2#: Thanks. Wait…What’s this? The 30 dollar for?\n #Speaker_1#: Excuse me… The charge for your laundry service on Nov. 20th.\n #Speaker_2#: But I didn’t take any laundry service during my stay here. I think you have added someone else’s.\n #Speaker_1#: Ummm… Sorry, would you mind waiting amoment? We check it with the department concerned.\n #Speaker_2#: No. As long as we get this straightened out.\n #Speaker_1#: I’m very sorry. There has been a mistake. We’ll corrected the bill. Please take a look.\n #Speaker_2#: Okay, here you are.\n #Speaker_1#: Goodbye \n\n Dialogue elements: ...",
+      "output": "#Speaker_1# helps #Speaker_2# correct a mischarged bill on laundry service and helps #Person_2# check out."
+    }
+]
+
+
